@@ -102,4 +102,4 @@ The sample mean is `r mean (x.avg)` and the standard deviation is `r sd(x.avg)`
 
 Write a summary paragraph describing what you observed and how it relates to the central limit theorem.
 
-When viewing all of the graphs and random sample size in each graph, there is a pattern that slowly agrees with the theory of CLT. 
+When viewing all of the graphs and random sample size in each graph, there is a pattern that slowly agrees with the theory of CLT. The central limit theorem shows how the mean and standard deviation and takes ssamples from the graphs and or situations/questions with replacement, then shows us the distribution of the sample means which will be approximately and normally distributed.
