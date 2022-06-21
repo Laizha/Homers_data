@@ -102,4 +102,4 @@ The sample mean is `r mean (x.avg)` and the standard deviation is `r sd(x.avg)`
 
 Write a summary paragraph describing what you observed and how it relates to the central limit theorem.
 
-Be sure to comment on both the mean and standard deviation of the sample averages - the CLT makes a statement about what to expect from both.
+When viewing all of the graphs and random sample size in each graph, there is a pattern that slowly agrees with the theory of CLT. 
